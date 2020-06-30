@@ -1,4 +1,4 @@
-/*const SHOP_DATA = {
+const SHOP_DATA = {
   hats: {
     id: 1,
     title: 'Hats',
@@ -247,4 +247,3 @@
 };
 
 export default SHOP_DATA;
-*/
